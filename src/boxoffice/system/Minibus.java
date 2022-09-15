@@ -1,4 +1,4 @@
-package gise.sistemi;
+package boxoffice.system;
 
 public class Minibus implements ICar {
 	

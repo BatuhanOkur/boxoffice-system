@@ -1,4 +1,4 @@
-package gise.sistemi;
+package boxoffice.system;
 
 public class Bus implements ICar {
 	private int balance;

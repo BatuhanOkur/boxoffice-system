@@ -1,4 +1,4 @@
-package gise.sistemi;
+package boxoffice.system;
 
 import java.util.ArrayList;
 
